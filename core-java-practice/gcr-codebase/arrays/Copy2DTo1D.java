@@ -1,4 +1,4 @@
-package arrays;
+package array;
 import java.util.*;
 public class Copy2DTo1D {
 
