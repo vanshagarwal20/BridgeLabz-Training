@@ -39,32 +39,22 @@ public class EmployeeWageComputation {
 //     Method to calculate monthly wage
     void calculateMonthlyWage() {
 
-        while (totalWorkingDays < MAX_WORKING_DAYS &&
-               totalWorkingHours < MAX_WORKING_HOURS) {
-
+        while (totalWorkingDays < MAX_WORKING_DAYS &&totalWorkingHours < MAX_WORKING_HOURS) {
             totalWorkingDays++;
-
             int attendance = checkAttendance();
             int hoursWorked = getWorkHours(attendance);
-
             totalWorkingHours += hoursWorked;
             int dailyWage = calculateDailyWage(hoursWorked);
-
             totalSalary += dailyWage;
-
-            System.out.println(
-                "Day " + totalWorkingDays + " | Hours Worked: " + hoursWorked + " | Daily Wage: ₹" + dailyWage);
+            System.out.println("Day " + totalWorkingDays + " | Hours Worked: " + hoursWorked + " | Daily Wage: ₹" + dailyWage);
         }
     }
 
     public static void main(String[] args) {
-
-        System.out.println("Welcome to Employee Wage Computation Program\n");
-
+        System.out.println("Welcome to Employee Wage Computation Program");
         EmployeeWageComputation employee = new EmployeeWageComputation();
         employee.calculateMonthlyWage();
-
-        System.out.println("\n--- Final Wage Summary ---");
+        System.out.println("Final Wage Summary!!!");
         System.out.println("Total Working Days : " + employee.totalWorkingDays);
         System.out.println("Total Working Hours: " + employee.totalWorkingHours);
         System.out.println("Total Monthly Wage: ₹" + employee.totalSalary);
