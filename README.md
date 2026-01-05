@@ -30,7 +30,7 @@ Each section highlights the learning objectives and tasks completed on specific 
 ---
 
 ## Folder Structure
-
+```
 
 BridgeLabz-Training/
 │
@@ -64,7 +64,7 @@ BridgeLabz-Training/
 │
 └── README.md
 
-
+```
 ---
 
 ## Weekly Progress Log
