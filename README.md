@@ -209,7 +209,7 @@ BridgeLabz-Training/
 - Improved program structure by following IS-A relationship principles
 
 
-## Week 3: Advanced OOPs Concepts and DSA Basics with Linked List Problems
+## Week 4: Advanced OOPs Concepts and DSA Basics with Linked List Problems
 
 ### 06-Jan-2026 (Tuesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
