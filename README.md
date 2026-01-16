@@ -255,6 +255,31 @@ BridgeLabz-Training/
 - Worked on scenario-based problems to apply OOPs concepts
 - Learned Linked List basics in DSA
 
+### 13-Jan-2026 (Tuesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/de9293b4d1c9cba2e177630d364b3ef2bdbcc428/dsa-practice/gcr-codebase/linked_list)
+
+- Created a new GitHub repository and performed Git operations
+- Learned and practiced Linux commands
+- Completed Linked List problems
+- Performed and resolved merge conflicts
+
+### 14-Jan-2026 (Wednesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/de9293b4d1c9cba2e177630d364b3ef2bdbcc428/dsa-practice/gcr-codebase/stack_queue)
+
+- Learned Stack and Queue concepts
+- Practiced basic operations and implementations
+- Understood LIFO and FIFO principles
+- Solved problems based on real-world use cases of Stack and Queue
+
+### 15-Jan-2026 (Thursday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/de9293b4d1c9cba2e177630d364b3ef2bdbcc428/dsa-practice/gcr-codebase/stack_queue)
+
+- Received learning material on sorting algorithms
+- Reviewed the Address Book problem for the project and discussed its overview
+- Completed all remaining work related to Stack and Queue
+
+### 16-Jan-2026 (Friday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/de9293b4d1c9cba2e177630d364b3ef2bdbcc428/dsa-practice/gcr-codebase/sorting)
+
+- Completed sorting-related problems
+- Started working on the Address Book project
+
 
 
 
