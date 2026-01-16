@@ -27,6 +27,7 @@ Each section highlights the learning objectives and tasks completed on specific 
 | main               | Contains the main README and consolidated documentation                       |
 | core-java-practice | Contains Java practice programs, control flow problems, and daily assignments |
 | oops-practice      | Contains OOPs practice programs covering core object-oriented concepts        |
+| dsa-practice       | Contains Data Structures & Algorithms practice                                |
 
 
 ---
@@ -54,9 +55,23 @@ BridgeLabz-Training/
 │   │
 │   ├── gcr-codebase/
 │   │   ├── class-and-object/
+│   |   ├── constructor/
 │   │   ├── inheritance/
 │   │   ├── encapsulation/
+│   │   ├── keywords/
+│   │   ├── uml-diagram/
 │   │   └── polymorphism/
+│   │
+│   ├── scenario-based/
+│   │
+│   └── leet-code-codebase/
+│
+├── dsa-practice/
+│   │
+│   ├── gcr-codebase/
+│   │   ├── linked_list/
+│   |   ├── sorting/
+│   │   └── stack_queue/
 │   │
 │   ├── scenario-based/
 │   │
@@ -111,6 +126,7 @@ BridgeLabz-Training/
 - Organized all array assignments inside the GCR folder for clarity
 
 
+## Week 2: Java Practice – Arrays, Strings, and Functions
 
 ### 22-Dec-2025 (Monday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/317164e998e0a50492a6bfa55bebd898a28e0f44/core-java-practice/gcr-codebase/string)
 
@@ -120,8 +136,6 @@ BridgeLabz-Training/
 - Enhanced logical thinking and text-processing skills 
 - Organized all Level 1 string assignments in the GCR folder under core-java-practice
 
-
-## Week 2: Java Practice – Arrays, Strings, and Functions
 
 ### 23-Dec-2025 (Tuesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/317164e998e0a50492a6bfa55bebd898a28e0f44/core-java-practice/gcr-codebase/string)
 
@@ -150,6 +164,7 @@ BridgeLabz-Training/
 - Solved advanced problems by efficiently combining multiple methods
 - Organized all method assignments in the GCR folder under core-java-practice
 
+## Week 3: Java Practice – Method Implementation, Scenario-Based Questions and basic OOP concepts
 
 ### 29-Dec-2025 (Monday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
@@ -158,9 +173,6 @@ BridgeLabz-Training/
 - Improved analytical thinking, problem decomposition, and structured solution design
 - Gained confidence in handling real-world scenarios and edge cases
 - Organized all extra practice solutions systematically within the project structure
-
-
-## Week 3: Java Practice – Method Implementation, Scenario-Based Questions and basic OOP concepts
 
 
 ### 30-Dec-2025 (Tuesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
@@ -200,6 +212,7 @@ BridgeLabz-Training/
 - Used super keyword to access parent class constructors, methods, and variables
 - Improved program structure by following IS-A relationship principles
 
+## Week 4: Advanced OOPs Concepts and DSA Basics with Linked List Problems
 
 ### 05-Jan-2026 (Monday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/uml-diagram)
 
@@ -208,8 +221,6 @@ BridgeLabz-Training/
 - Used super keyword to access parent class constructors, methods, and variables
 - Improved program structure by following IS-A relationship principles
 
-
-## Week 4: Advanced OOPs Concepts and DSA Basics with Linked List Problems
 
 ### 06-Jan-2026 (Tuesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
@@ -229,6 +240,20 @@ BridgeLabz-Training/
 
 - Worked on Linked List problems from the DSA learning material
 - Had an interaction session with Capgemini officials
+
+
+### 09-Jan-2026 (Friday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase)
+
+- Created a new Branch dsa-practice to organize dsa-related work
+- Practiced Linked List concepts, including basic operations (insertion, deletion, traversal)
+- Understanding node structure and pointers
+
+## Week 5: Scenario-Based OOPs & Introduction to DSA
+
+### 12-Jan-2026 (Monday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/5a89732bd628530efd43c91f6d02277a0ca5ae01/oops-practice/scenario-based)
+
+- Worked on scenario-based problems to apply OOPs concepts
+- Learned Linked List basics in DSA
 
 
 
