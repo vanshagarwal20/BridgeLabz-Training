@@ -287,6 +287,8 @@ BridgeLabz-Training/
 - Implemented Binary Search for sorted arrays
 - Compared performance based on input size, analyzed time, and space complexity for both algorithms
 
+## Week 6: Run-time Analysis, Generics, and scenario-based
+
 ### 19-Jan-2026 (Monday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/462ec9b667baeaf26274d4a01ff510ef88611c00/dsa-practice/gcr-codebase/runtime_analysis)
 
 - Participated in a technical review session
