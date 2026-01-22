@@ -281,6 +281,32 @@ BridgeLabz-Training/
 - Started working on the Address Book project
 
 
+### 17-Jan-2026 (Saturday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/462ec9b667baeaf26274d4a01ff510ef88611c00/dsa-practice/gcr-codebase/sorting)
+
+- Implemented Linear Search for unsorted and sorted arrays
+- Implemented Binary Search for sorted arrays
+- Compared performance based on input size, analyzed time, and space complexity for both algorithms
+
+### 19-Jan-2026 (Monday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/462ec9b667baeaf26274d4a01ff510ef88611c00/dsa-practice/gcr-codebase/runtime_analysis)
+
+- Participated in a technical review session
+- Revised and discussed Runtime Analysis concepts
+- Practiced Big-O Notation–based interview question
+
+### 20-Jan-2026 (Tuesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/462ec9b667baeaf26274d4a01ff510ef88611c00/dsa-practice/scenario-based)
+
+- Practiced scenario-based interview questions focused on real-world problem understanding
+- Analyzed scenarios related to Data Structures and Algorithms
+- Reviewed time and space complexity for common algorithms
+- Practiced questions to compare the performances of data structures
+
+### 21-Jan-2026 (Wednesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/e1920fbbe49ed96ce2b15b70fdb33e341fb962f6/collections-practice/gcr-codebase/generics)
+
+- Implemented Java Generics to create type-safe classes and methods
+- Designed generic methods to work with multiple data types
+- Used bounded type parameters where applicable and eliminated explicit type casting using generics
+
+
 
 
 
