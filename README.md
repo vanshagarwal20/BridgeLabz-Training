@@ -70,8 +70,30 @@ BridgeLabz-Training/
 │   │
 │   ├── gcr-codebase/
 │   │   ├── linked_list/
-│   |   ├── sorting/
+│   |   ├── runtime_analysis/
+│   │   ├── searching/
+│   │   ├── sorting/
 │   │   └── stack_queue/
+│   │   
+│   │
+│   ├── scenario-based/
+│   │
+│   └── leet-code-codebase/
+│   └── leet-code-codebase/
+│
+├── collections-practice/
+│   │
+│   ├── gcr-codebase/
+│   │   ├── exception_handling/
+│   |   ├── generics/
+│   │   ├── insurancePolicyManagementSystem/
+│   │   ├── insurance_policy_management/
+│   │   ├── java_stream/
+│   |   ├── list_interface/
+│   │   ├── map_interface/
+│   │   ├── queue_interface/
+│   │   └── set_interface/
+│   │   
 │   │
 │   ├── scenario-based/
 │   │
@@ -86,7 +108,7 @@ BridgeLabz-Training/
 
 ## Weekly Progress Log
 
-## Week 1: Getting Started with Java and Its Basics
+<!-- ## Week 1: Getting Started with Java and Its Basics -->
 
 ### 16-Dec-2025 (Tuesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/core-java-practice/core-java-practice)
 
@@ -126,7 +148,7 @@ BridgeLabz-Training/
 - Organized all array assignments inside the GCR folder for clarity
 
 
-## Week 2: Java Practice – Arrays, Strings, and Functions
+<!-- ## Week 2: Java Practice – Arrays, Strings, and Functions -->
 
 ### 22-Dec-2025 (Monday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/317164e998e0a50492a6bfa55bebd898a28e0f44/core-java-practice/gcr-codebase/string)
 
@@ -164,7 +186,7 @@ BridgeLabz-Training/
 - Solved advanced problems by efficiently combining multiple methods
 - Organized all method assignments in the GCR folder under core-java-practice
 
-## Week 3: Java Practice – Method Implementation, Scenario-Based Questions and basic OOP concepts
+<!-- ## Week 3: Java Practice – Method Implementation, Scenario-Based Questions and basic OOP concepts -->
 
 ### 29-Dec-2025 (Monday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
@@ -212,7 +234,7 @@ BridgeLabz-Training/
 - Used super keyword to access parent class constructors, methods, and variables
 - Improved program structure by following IS-A relationship principles
 
-## Week 4: Advanced OOPs Concepts and DSA Basics with Linked List Problems
+<!-- ## Week 4: Advanced OOPs Concepts and DSA Basics with Linked List Problems -->
 
 ### 05-Jan-2026 (Monday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/uml-diagram)
 
@@ -248,7 +270,7 @@ BridgeLabz-Training/
 - Practiced Linked List concepts, including basic operations (insertion, deletion, traversal)
 - Understanding node structure and pointers
 
-## Week 5: Scenario-Based OOPs & Introduction to DSA
+<!-- ## Week 5: Scenario-Based OOPs & Introduction to DSA -->
 
 ### 12-Jan-2026 (Monday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/5a89732bd628530efd43c91f6d02277a0ca5ae01/oops-practice/scenario-based)
 
@@ -287,7 +309,7 @@ BridgeLabz-Training/
 - Implemented Binary Search for sorted arrays
 - Compared performance based on input size, analyzed time, and space complexity for both algorithms
 
-## Week 6: Run-time Analysis, Generics, and scenario-based
+<!-- ## Week 6: Run-time Analysis, Generics, and scenario-based -->
 
 ### 19-Jan-2026 (Monday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/462ec9b667baeaf26274d4a01ff510ef88611c00/dsa-practice/gcr-codebase/runtime_analysis)
 
@@ -307,6 +329,30 @@ BridgeLabz-Training/
 - Implemented Java Generics to create type-safe classes and methods
 - Designed generic methods to work with multiple data types
 - Used bounded type parameters where applicable and eliminated explicit type casting using generics
+
+### 22-Jan-2026 (Thursday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/e939dcfc5edf83f819170701f58abeaa0875d853/collections-practice)
+
+- Studied Java Collections Framework in depth
+- Compared different implementations and use cases and implemented programs
+- Revised core collection interfaces - List, Set, Map, and Queue
+
+### 23-Jan-2026 (Friday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/e939dcfc5edf83f819170701f58abeaa0875d853/collections-practice/gcr-codebase/java_stream)
+
+- Studied Java Streams API for functional-style data processing
+- Understood stream pipeline concepts - Source, Intermediate operations, and Terminal operations
+- Practiced stream-based examples on collections
+
+### 27-Jan-2026 (Tuesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/e939dcfc5edf83f819170701f58abeaa0875d853/collections-practice/gcr-codebase/exception_handling)
+
+- Studied Exception Handling in Java
+- Practiced handling runtime and compile-time exceptions
+- Understands Exception propagation
+
+### 28-Jan-2026 (Wednesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/e939dcfc5edf83f819170701f58abeaa0875d853/collections-practice/scenario-based)
+
+- Practiced scenario-based problems using Java Collections Framework
+- Focused on selecting the right collection based on real-world requirements
+- Better understanding of performance and memory trade-offs
 
 
 
