@@ -22,12 +22,13 @@ Each section highlights the learning objectives and tasks completed on specific 
 
 ## Branch Information
 
-| Branch Name          | Purpose                                                                       |
-| -------------------- | ----------------------------------------------------------------------------- |
-| main               | Contains the main README and consolidated documentation                       |
-| core-java-practice | Contains Java practice programs, control flow problems, and daily assignments |
-| oops-practice      | Contains OOPs practice programs covering core object-oriented concepts        |
-| dsa-practice       | Contains Data Structures & Algorithms practice                                |
+| Branch Name                | Purpose                                                                       |
+| -------------------------- | ----------------------------------------------------------------------------- |
+| main                       | Contains the main README and consolidated documentation                       |
+| core-java-practice         | Contains Java practice programs, control flow problems, and daily assignments |
+| oops-practice              | Contains OOPs practice programs covering core object-oriented concepts        |
+| dsa-practice               | Contains Data Structures & Algorithms practice                                |
+| collections-practice       | Contains Java Collections Framework practice programs (List, Set, Map, Queue) |
 
 
 ---
