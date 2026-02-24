@@ -29,6 +29,10 @@ Each section highlights the learning objectives and tasks completed on specific 
 | oops-practice              | Contains OOPs practice programs covering core object-oriented concepts        |
 | dsa-practice               | Contains Data Structures & Algorithms practice                                |
 | collections-practice       | Contains Java Collections Framework practice programs (List, Set, Map, Queue) |
+| io-practice                | Contains csv_data_handling and json_handling                                  |
+| java8-features-practice    | Contains collectors, functional_interface, lambda_expression, stream_API      |
+| multi-threading-practice   | Contains multi_threading                                                      |
+| designing-practice         | Contains UML Diagrams, smart_university_library                               |
 
 
 ---
@@ -93,7 +97,59 @@ BridgeLabz-Training/
 │   |   ├── list_interface/
 │   │   ├── map_interface/
 │   │   ├── queue_interface/
+│   │   ├── banking_system/
+│   |   ├── voting_system/
+│   │   ├── annotation/
+│   │   ├── reflection/
+│   |   ├── Junit/
+│   │   ├── streams/
+│   │   ├── regex/
 │   │   └── set_interface/
+│   │   
+│   │
+│   ├── scenario-based/
+│   │
+│   └── leet-code-codebase/
+│
+├── io-practice/
+│   │
+│   ├── gcr-codebase/
+│   │   ├── csv_data_handling/
+│   │   └── json_handling/
+│   │   
+│   │
+│   ├── scenario-based/
+│   │
+│   └── leet-code-codebase/
+│
+├── java8-features-practice/
+│   │
+│   ├── gcr-codebase/
+│   │   ├── collectors/
+│   │   ├── lambda_expression/
+│   │   ├── stream_API/
+│   │   └── functional_interface/
+│   │   
+│   │
+│   ├── scenario-based/
+│   │
+│   └── leet-code-codebase/
+│
+├── multi-threading-practice/
+│   │
+│   ├── gcr-codebase/
+│   │   └── multi_threading/
+│   │   
+│   │
+│   ├── scenario-based/
+│   │
+│   └── leet-code-codebase/
+│
+├── designing-practice/
+│   │
+│   ├── gcr-codebase/
+│   │   ├── smart_university_library/
+│   │   └── UML Diagrams/
 │   │   
 │   │
 │   ├── scenario-based/
@@ -393,6 +449,82 @@ BridgeLabz-Training/
 - To perform basic data validation and manipulation on CSV records.
 - To read, write, and manipulate data stored in JSON (JavaScript Object Notation) format.
 - To perform parsing and validation of JSON data using Java.
+
+### 05-Feb-2026 (Thursday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/994f818a4e79949e7fb72cb14ab52ebf157651c1/collections-practice/scenario-based)
+
+- Participated in a technical review session.
+- Attended mentor interaction session with Capgemini professionals.
+- Practiced real-time, scenario-based coding problems.
+
+### 06-Feb-2026 (Friday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/994f818a4e79949e7fb72cb14ab52ebf157651c1/collections-practice/scenario-based/supermarket_billing_queue)
+
+- Implemented scenario-based validation systems using custom exceptions to handle real-world constraints and error conditions.
+- Implemented a robot hazard risk analyzer with strict validation rules and custom exception handling for safe operational assessment.
+- Developed a flight validation and fuel management system using custom exception handling and business rule enforcement.
+- Strengthened understanding of defensive programming, clean error messaging, and modular code structure through practical problem-solving.
+
+### 07-Feb-2026 (Saturday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/7ce3e7c792dc9639d276053de939f9d2645b0185/java8-features-practice/gcr-codebase/lambda_expressions)
+
+- Implemented a C# console application using Lambda expressions and LINQ to analyze creators’ weekly engagement data.
+- Developed features to register creators, filter top-performing weeks using threshold logic, and compute overall average likes dynamically.
+- Practiced Lambda Expression for functional-style programming.
+- Strengthened understanding of data aggregation, conditional filtering, and menu-driven program flow without abrupt termination methods.
+- Implemented a scenario-based fleet management system to process and validate ship/fleet operational data.
+
+### 08-Feb-2026 (Sunday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/7ce3e7c792dc9639d276053de939f9d2645b0185/java8-features-practice/gcr-codebase/functional_interfaces)
+
+- Implemented Functional Interfaces (Predicate, Function, Consumer, Supplier) to perform filtering, transformation, and data processing using Lambda expressions.
+- Applied Stream API with Collectors (Collectors.toList(), groupingBy(), counting(), averaging()) for efficient data aggregation and manipulation.
+- Strengthened understanding of functional programming concepts in Java, including stream pipelines and collector-based result transformation.
+- Studied and implemented core Design Patterns such as Singleton, Factory, and Observer to improve code structure and reusability.
+
+### 09-Feb-2026 (Monday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/7ce3e7c792dc9639d276053de939f9d2645b0185/java8-features-practice/gcr-codebase/collectors)
+
+- Implemented multi-threaded programs using the Thread class and Runnable interface to execute tasks concurrently.
+- Practiced thread lifecycle management, including start(), sleep(), join(), and synchronization concepts.
+- Strengthened understanding of concurrency, parallel execution, and performance optimization in Java.
+
+### 10-Feb-2026 (Tuesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/7ce3e7c792dc9639d276053de939f9d2645b0185/java8-features-practice/gcr-codebase/functional_interfaces)
+
+- Appeared for a mock technical assessment consisting of 3 problem-solving questions.
+- Applied concepts of DSA, OOP, and logical reasoning under time constraints.
+- Analyzed performance and identified areas for improvement based on a problem-solving approach.
+
+### 11-Feb-2026 (Wednesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/7ce3e7c792dc9639d276053de939f9d2645b0185/java8-features-practice/gcr-codebase/stream_API)
+
+- Explored SonarQube for static code analysis to detect bugs, code smells, and security vulnerabilities.
+- Understood key metrics such as code coverage, technical debt, duplications, and maintainability rating.
+- Configured SonarQube with Maven and Docker for local project analysis.
+
+### 12-Feb-2026 (Thursday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/7ce3e7c792dc9639d276053de939f9d2645b0185/java8-features-practice/gcr-codebase/functional_interfaces)
+
+- Attended a technical review session for the mock exam and analyzed solutions for the given problems.
+- Received feedback on code optimization, logic building, and best coding practices.
+- Participated in the Thursday Connect session with Capgemini mentors, discussing industry expectations and problem-solving approaches.
+
+### 13-Feb-2026 (Friday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/b58f13f769dc4091e154c107861a00b64c9f66d8/io-practice/gcr-codebase/CSV_data_handling)
+
+- Completed project submission after performing code quality analysis using SonarQube and resolving identified bugs and code smells.
+- Implemented JUnit test cases to validate scenario-based logic and ensure functional correctness.
+- Strengthened understanding of test-driven validation, quality gates, and clean code practices.
+
+### 14-Feb-2026 (Saturday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/994f818a4e79949e7fb72cb14ab52ebf157651c1/collections-practice/gcr-codebase/sonarQube)
+
+- Enhanced the Address Book application by implementing additional use cases such as add, edit, delete, search, and multiple record management.
+- Extended the Employee Wage computation system with more business scenarios, including daily wage calculation, attendance conditions, and total wage limits.
+- Strengthened understanding of real-world problem modeling, edge case handling, and scalable program structure.
+
+### 16-Feb-2026 (Monday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/f5a1394d4183dba4ae88e2c9c944b93bb889f4a8/dbms-practice/gcr-codebase/HealthClinicApp/HealthClinicApp)
+
+- Implemented additional use cases in existing projects to enhance functionality and improve real-world applicability.
+- Explored and understood the fundamentals of JDBC (Java Database Connectivity) for database interaction.
+- Learned how to establish database connections, execute SQL queries, and handle ResultSet operations.
+
+### 17-Feb-2026 (Tuesday) [Click here for reference](https://github.com/vanshagarwal20/BridgeLabz-Training/tree/7ce3e7c792dc9639d276053de939f9d2645b0185/java8-features-practice/scenario-based/employee_wages)
+
+- Completed and submitted all remaining use cases for the Address Book and Employee Wage applications.
+- Ensured full implementation of CRUD operations, validation rules, and business logic scenarios as per requirements.
+- Verified functionality through multiple test scenarios to ensure accuracy and reliability of outputs.
 
 
 
