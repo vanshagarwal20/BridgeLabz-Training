@@ -1,0 +1,16 @@
+package reviews.BankingSystem;
+
+class SavingAccount extends Account{
+
+	public SavingAccount(String name, double balance, String accountNo) {
+		super(name, balance, accountNo);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public double CalculateInterest() {
+		// TODO Auto-generated method stub
+		return getBalance()*0.05;
+	}
+	
+}
